@@ -1,0 +1,13 @@
+    .header {
+        font-size: 36px;
+        color: slategray;
+        font-family: cursive;
+        text-align: center;
+        border: 1px solid #000;
+        padding: 20px;
+        border-radius: 100px 0px 100px 0px;
+        -moz-border-radius: 100px 0px 100px 0px;
+        -webkit-border-radius: 100px 0px 100px 0px;
+        border: 9px double #000000;
+        background-color: burlywood;
+    }
